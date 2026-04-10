@@ -396,6 +396,7 @@ Error**
 - 400 BAD REQUEST → Datos inválidos
 
 **3. Genere el diagrama de componentes general del sistema SportLife**
+<img width="886" height="504" alt="Captura de pantalla 2026-04-10 005531" src="https://github.com/user-attachments/assets/feaf0928-252a-47a8-af46-690b4b22e37f" />
 
 **6. Modelo de base de datos relacional**
 
